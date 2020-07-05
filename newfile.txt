@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 <!doctype html>
 	<html>
 		<head>
@@ -28,8 +26,7 @@
 
 		</body>
 	</html>
-© 2020 GitHub, Inc.
->>>>>>> 642ebf23e95d0ee23acf405f6470ac2ddc598dde
+
 
 
 
