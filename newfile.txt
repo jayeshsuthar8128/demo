@@ -1,30 +1,16 @@
-a
-b
-c
-d
-e
-f
-g
-h
-i
-j
-k
-l
-m
-n
-o
-p
-q
-r
-e
-s
-t
-u
-v
-w
-x
-y
-z
-Jay 
-Jayesh 
-Nandini
+<!doctype html>
+	<html>
+		<head>
+			<title> Introduction of group </title>
+		</head>
+		<body>
+			<h3> Introduction of Group Members </h3>
+				<h2> <b> <u> Jay Dodani </u> </b> </h2>
+					<p> My name is Jay Dodani, I am 20 year old and I am pursuing BCA from Lokmanya College of Computer Application associated with Gujarati Univesity. I am studying in last year of BCA. </p>
+					<p> I have also done Masters in Vfx and Cinematography from MAAC (Maya Academy of Advanced Cinematics) from Ahmedabad and Mumbai and also have 2.6 years of working experience in varoius company. </p>
+					<p> Parallely I have also completed the Diploma in Hardware and Networking from ECIT (Electronic Corporation of India Technology) and have 6 months of wroking experience in a company </p>
+					<p> I have done Personality Development from Adarsh Amdavad from where I am taking the counselling sessions of the students to guide them about future and career problems. </p>
+					<p> This is all what I am... I am not only this as I have many more things that can feature me and can tell about me. </p>
+					<p> <b> Thank You </b> </p>
+		</body>
+	</html>
