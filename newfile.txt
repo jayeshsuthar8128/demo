@@ -50,28 +50,20 @@ NaNdInI
 					<p> I have also done cmm in C-DAC.</p>
 					<p> Cmm is a basic course of editing like Photoshop, Illustrator, Corel draw.</p>
 					<p> <b> Thank You </b> </p>
-		</body>
-	</html>
-<<<<<<< HEAD
->>>>>>> 1c2856b718dc1976f7c9fc1a244114755b4ac9d6
-=======
 
-
-
-
-
-doctype html>
-	<html>
-		<head>
-			<title> Introduction of group </title>
-		</head>
-		<body>
-			<h3> Introduction of Group Members </h3>
 				<h2> <b> <u> Nandini jambhudkar </u> </b> </h2>
 					<p> My name is Nandini, I am 19 year old and I am pursuing BCA from Lokmanya College of Computer Application associated with Gujarati Univesity. I am studying in last year of BCA. </p>
 					<p> I have also done web design & graphics design in cohesion institute . </p>
-					<p> <b> Thank You </b> </p>
+					<p> <b> Thank You </b> </p></h2>
+
 		</body>
 	</html>
 © 2020 GitHub, Inc.
 >>>>>>> 642ebf23e95d0ee23acf405f6470ac2ddc598dde
+
+
+
+
+
+
+
