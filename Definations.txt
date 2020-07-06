@@ -108,7 +108,31 @@ Approved by : Nandini and Jayesh Suthar
 
 3-> Health cares
 
-	- Request for appoinments
+	2.Hardware and software
+ overview
+	hardware accesories
+		(hard disk,HDDs,ODDs,SSDsgrapics card.......)
+	laptops
+		brands
+		filters
+	desktops
+		brand 
+		filters
+	CPU
+		accesories with price
+		refurbished accesories
+	keyboard
+		brand
+		filters
+	softwares
+		for designing
+		for developing
+		for gaming
+			purchase or free
+purchase
+contact
+about us
+- Request for appoinments
 	- Find a doctor
 	- Contact Doctors
 	
@@ -173,4 +197,61 @@ Approved by : Nandini and Jay Dodani
 
 ----------------------------------------------------------------------------------------------------
 
-3.
+1.Hardware and software ...ecommerce websites..
+Hardware and software
+ overview
+	hardware accesories
+		(hard disk,HDDs,ODDs,SSDsgrapics card.......)
+	laptops
+		brands
+		filters
+	desktops
+		brand 
+		filters
+	CPU
+		accesories with price
+		refurbished accesories
+	keyboard
+		brand
+		filters
+	softwares
+		for designing
+		for developing
+		for gaming
+			purchase or free
+Sign In - Sign Up
+		add to cart
+purchase
+	payments systems
+canceled order
+refund
+user information
+Privacy Policies
+About Website
+contact
+----------------------------------------------------------------------------------------------------
+website only for information
+2.Smart health prediction
+
+Overview
+
+Information 
+	disease 
+		coronary arity diease CAD
+		stroke
+		trachea,bronchus,lun cancers
+		diabetes mellitus
+	psychology facts
+	Ayurveda vedshakti
+	malnutrition
+	nutrition
+	advice by W.H.O(cookies)
+
+what we do?
+about us.
+
+highligts = yoga,daily diet ,excersize.
+subscribe = facebook instagram twitter
+
+Defination Explained : Nandini jambhudkar
+Approved by : Jayesh suthar and Jay Dodani
