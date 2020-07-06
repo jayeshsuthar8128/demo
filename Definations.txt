@@ -1,0 +1,97 @@
+Defination Details...
+
+1. The project is of E-commerce website, all about realted to pet Dogs and their items... Explaination is as follow : 
+
+DOGS DUDE (DD)
+
+website realates the selling of products related to dogs.. 
+e-commerce websites...
+
+the webiste contains
+
+1. food items 
+- Dry dogs Food
+- Dog Foods
+- Dog Cookies
+- Dog Calcium bones
+- Pedigree
+
+2. Health Concern
+
+- Gogs calcium tablets
+- dogs immunity systems
+- dogs vitamin tablets 
+- injections and other health concern items
+
+3. clothes
+
+- clothes
+- chians
+- belts
+- dogs body shield belts
+- dogs shoes and leg products
+- leash shells
+
+4. health care
+
+- doctors number 
+- doctors advices
+- clinic's information
+- dogs precautions
+- dogs consultant
+-oral care
+
+5. dog care options
+
+- training to dogs
+- dogs facts
+- dogs age calculater
+
+6. get an additional dog as a partner for home pet
+
+- getting a puppy or adult dog
+- breed
+- age calculations
+- breed match
+
+7. dogs helping center
+
+- adobt normal dog
+- adobt trained dog
+- adopt asmy dog
+- new dog store near you
+- meet you new dogs
+
+8. contacts
+
+- pet clinics contacts
+- contact the shelter
+- contact the food store
+- contact the clothes and belt store
+
+9. support system
+
+10. information
+
+- types of bread
+- how to handle dogs
+- vaccine information
+- age limts of dogs
+
+11. Sign In
+12. Cart
+13. Purchase
+14. Payments
+15. canceled order
+16. refund 
+17. user information 
+18. storage of their dog information
+19. privacy policies
+20. about website
+
+Defination Explained : Jay Dodani
+Approved by : Nandini and Jayesh Suthar 
+
+----------------------------------------------------------------------------------------------------
+
+2. 
