@@ -94,4 +94,83 @@ Approved by : Nandini and Jayesh Suthar
 
 ----------------------------------------------------------------------------------------------------
 
-2. 
+2. The project is of E-commerce website, all about realted to Health Care and their items... Explaination is as follow : 
+
+-->The Wbsite Contains our Heath cares and their products
+
+1-> Covid-19 Updates
+
+2-> Disease & Virus
+	
+	- Find Disease
+	- Medicine For diseases
+	- Check Your diseases / semptom check
+
+3-> Health cares
+
+	- Request for appoinments
+	- Find a doctor
+	- Contact Doctors
+	
+4-> Health News/feed
+
+	- Explore Disease
+	- Updates for Health News
+	- Patient Stories
+
+5-> Drug/Medicine Buying
+
+	- Buy medicine for perfect diseases
+	- Buy a first aid kit for travelling / emergency kit
+	- Immunity Booster Product 
+	- Facial product / Facial kit
+	- Covid Product
+			like - Msak , Senitiser , gloves.
+			
+6-> Sign In - Sign Up
+
+	- Daily E-News/feed Through Mails
+	- Notify for new diseases and viruses
+	- Suggest new ideas for boost your immunity system
+	
+7-> Services for patient & Visitors
+
+	- Insurance accepted hospitals/clinics
+	- Billing & Finance
+	- Pay Your bill Online
+	- Health room 
+	
+8-> Informations
+
+	- Near Best health clinics/hospitals
+	- Near Best Drug Shop
+	- Which type of clinics/hospitals you need
+	
+9-> Contacts
+
+	- near clinic/hospitals contact list
+	- contact for want family doctor
+	- contact for advice drug/medicine
+	
+10-> Cart 
+
+11-> Puchase
+
+12-> Payments
+
+13-> canceled order
+
+14-> refund
+
+15-> user information
+
+16-> Privacy Policies
+
+17-> About Website
+
+Defination Explained : Jayesh Suthar
+Approved by : Nandini and Jay Dodani 
+
+----------------------------------------------------------------------------------------------------
+
+3.
